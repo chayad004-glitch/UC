@@ -1,0 +1,7 @@
+{
+  "name": "Society Event Permission App",
+  "description": "A professional tool for Urban Company field teams to generate society permission letters for event activities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
